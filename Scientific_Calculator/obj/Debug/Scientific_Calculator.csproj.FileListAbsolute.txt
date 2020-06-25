@@ -1,0 +1,10 @@
+C:\Users\tiglath\source\repos\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.csprojAssemblyReference.cache
+C:\Users\tiglath\source\repos\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.Form1.resources
+C:\Users\tiglath\source\repos\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.Properties.Resources.resources
+C:\Users\tiglath\source\repos\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.csproj.GenerateResource.cache
+C:\Users\tiglath\source\repos\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\tiglath\source\repos\Scientific_Calculator\Scientific_Calculator\bin\Debug\Scientific_Calculator.exe.config
+C:\Users\tiglath\source\repos\Scientific_Calculator\Scientific_Calculator\bin\Debug\Scientific_Calculator.exe
+C:\Users\tiglath\source\repos\Scientific_Calculator\Scientific_Calculator\bin\Debug\Scientific_Calculator.pdb
+C:\Users\tiglath\source\repos\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.exe
+C:\Users\tiglath\source\repos\Scientific_Calculator\Scientific_Calculator\obj\Debug\Scientific_Calculator.pdb
